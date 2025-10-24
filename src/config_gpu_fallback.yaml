@@ -1,0 +1,7 @@
+model_size: small
+compute_type: float16
+language: ru
+vad: true
+beam_size: 5
+temperature: 0.0
+word_timestamps: false
